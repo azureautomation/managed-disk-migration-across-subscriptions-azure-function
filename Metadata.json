@@ -1,0 +1,20 @@
+{
+    "Author": "paperclips",
+    "ContentSize": 18912,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/managed-disk-migration-across-subscriptions-azure-function/master/New-ManagedDiskMigration.ps1",
+    "DownloadCount": 474,
+    "Id": "Managed-disk-migration-6cb6a526",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 288,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2019-2-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This function can be used to migrate managed disks between subscriptions and resource groups.It can be used\u00a0as part of\u00a0a Virtual Machine migration for example,\u00a0where Virtual Machines that are backed by managed disks copies of the attached managed disks can be created across subsc",
+    "Title": "Managed disk migration - Across subscriptions - Azure - Function",
+    "UpdatedDate": "2019-2-7T00:00:00",
+    "Url": "https://github.com/azureautomation/managed-disk-migration-across-subscriptions-azure-function",
+    "UserTags": "Microsoft Azure, Powershell, Azure Automation"
+}
